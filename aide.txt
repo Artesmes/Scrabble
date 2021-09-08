@@ -1,0 +1,32 @@
+Principe du jeu 
+
+Les règles mises en place seront les règles traditionnelles. (Source : https://www.ffsc.fr/files/public/fichiers/reglements/classique/Reglement.international.du.Scrabble.classique.pdf)
+
+Préparation du jeu 
+La pioche des jetons est à construire (cf § les contraintes) puis à mélanger. 
+Chaque joueur tire aléatoirement sept lettres et les dépose sur son « chevalet ». 
+
+Partie et calcul des scores
+Le joueur choisi parmi les lettres qu’il a tirées et pose à tour de rôle une ou plusieurs lettres de manière à former de nouveaux mots sur la grille, horizontalement ou verticalement.
+Il n'est pas admis de poser un mot en diagonale.
+Le premier mot doit faire au moins deux lettres et recouvrir la case centrale (matérialisée par le caractère ‘#’) et les mots suivants doivent s'appuyer sur des mots déjà placés, à la manière des mots croisés. 
+Le score d'un coup est calculé en additionnant la valeur de toutes les lettres des nouveaux mots formés (y compris celles déjà posées sur la grille).
+Si une nouvelle lettre posée recouvre une case « lettre compte double » (caractère ‘&’) ou « lettre compte triple » (caractère ‘%’), sa valeur est multipliée par 2 ou par 3 ; si cette case fait partie de 2 nouveaux mots formés, horizontalement et verticalement, elle compte double ou triple dans les deux sens. 
+Si une case « mot compte double » (caractère ‘@’) ou « mot compte triple » (caractère ‘§’) a été recouverte, la valeur du mot entier est doublée ou triplée. 
+Si en recouvrant cette case, cela forme deux mots horizontalement et verticalement, la valeur des deux mots est multipliée par 2 ou par 3.
+Les cases multiplicatrices ne servent plus une fois recouvertes.
+Placer ses sept lettres sur la grille apporte une prime de 50 points. 
+Ce genre de coup est appelé « scrabble » en français.
+Le joueur qui « fait un scrabble », a « scrabblé ».
+Après avoir posé ses lettres et annoncé son score, le tour est terminé.
+Il est alors possible de demander à vérifier la présence d'un mot joué dans un dictionnaire de référence, convenu entre les joueurs : sans bonus, la vérification est manuelle avec le bonus, le programme vérifiera lui-même la validité du mot tel que défini plus bas..
+Si un mot contesté n'est pas valable, le joueur reprend ses lettres et marque zéro point pour le coup.
+Par contre si le mot contesté est valable, le demandeur qui a contesté perd dix points. 
+Les actions possibles sont : • passer son tour
+			                 • changer une ou plusieurs lettres de son jeu (dans ce cas il est impossible de poser un nouveau mot).
+ 
+Fin de partie
+
+La partie s'achève quand le sac est vide et qu'un joueur place ses dernières lettres sur la grille.
+Il ajoute à son score la valeur des lettres restant à ses adversaires, qui dans le même temps, doivent déduire de leur score la valeur des lettres qui leur restent.
+Le vainqueur est celui qui totalise le plus de points à la fin de la partie.
