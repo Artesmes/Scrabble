@@ -8,4 +8,4 @@ A easy to play Scrabble game developped in C
  - Command Line Interface Game
 
 ## GUI
-![gui] gui.png
+![Gui] gui.png
