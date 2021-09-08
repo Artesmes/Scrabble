@@ -7,5 +7,11 @@ An easy to play Scrabble CLI game developped in C
  - AI implemented for a solo game
  - Command Line Interface Game
 
+## Build 
+```
+gcc -o exec Fscrabble.c
+./exec
+
+
 ## GUI
 ![Gui](gui.png)
