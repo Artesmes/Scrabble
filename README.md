@@ -1,5 +1,5 @@
 # Scrabble
-A easy to play Scrabble game developped in C
+An easy to play Scrabble game developped in C
 
 ## Features 
  - Multiplayer game (Up to 4 person)
