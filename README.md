@@ -11,7 +11,7 @@ An easy to play Scrabble CLI game developped in C
 ```
 gcc -o exec Fscrabble.c
 ./exec
-
+```
 
 ## GUI
 ![Gui](gui.png)
